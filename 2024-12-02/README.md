@@ -5,7 +5,8 @@
 - Beginner difficulty Full-Stack web application project
 - Intermediate difficulty Full-Stack web application project
 - Advanced difficulty Full-Stack web application project
-- Data Analysis project
+- Beginner difficulty Data Analysis project
+- Intermediate difficulty Data Analysis project
 
 You will find them in separate markdown (md) files in this directory.
 
