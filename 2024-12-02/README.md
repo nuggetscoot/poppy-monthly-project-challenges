@@ -1,5 +1,6 @@
 # December 2nd 2024 - Monthly Project Challenges
 
+**You may work on these alone or in groups**
 
 **This months projects are listed below:**
 - Beginner difficulty Full-Stack web application project
@@ -10,14 +11,10 @@
 
 You will find them in separate markdown (md) files in this directory.
 
-On January 2nd, the 3 best projects will be pinned to the home page.
-
-
-## Software Development - Advanced Difficulty
+On January 2nd, the 3 best project implementations by members in this group will be pinned to the home page.
 
 
 
-## Data Analysis
 
 
 
